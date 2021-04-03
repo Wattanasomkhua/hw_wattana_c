@@ -1,0 +1,3 @@
+#include<stdio.h>
+#define HALF 0.5
+
